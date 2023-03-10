@@ -1,0 +1,10 @@
+['sbi consumption opportunities fund.csv',
+ 'sbi contra fund.csv',
+ 'SBI Equity Hybrid Fund.csv',
+ 'sbi focused fund.csv',
+ 'sbi healthcare opportunities fund.csv',
+ 'SBI Large & Midcap Fund.csv',
+ 'SBI Magnum Equity ESG Fund.csv',
+ 'SBI Magnum Income Fund.csv',
+ 'SBI Nifty Index Fund.csv',
+ 'sbi small cap.csv']

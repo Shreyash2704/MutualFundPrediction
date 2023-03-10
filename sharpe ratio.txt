@@ -1,0 +1,27 @@
+Here's an example of how to calculate the Sharpe Ratio for daily NAV data:
+
+1.Calculate the daily returns of the mutual fund by taking the difference between the current day's NAV and 
+the previous day's NAV, and dividing it by the previous day's NAV.
+
+2.Calculate the average daily return over a specific period, such as a year, by adding up all the daily returns 
+and dividing by the number of days.
+
+3.Calculate the risk-free rate using a similar method as for the annualized average return, but using the daily yields 
+of a Treasury bill or note with a similar maturity as the investment period of the fund.
+
+4.Calculate the standard deviation of daily returns using the formula:
+
+Standard deviation = square root of [sum of (daily return - average daily return)^2 / (number of days - 1)]
+
+Finally, calculate the Sharpe Ratio using the same formula as before:
+
+Sharpe Ratio = (average daily return - risk-free rate) / standard deviation
+
+
+Sbi-contra-funds-direct-plan-growth
+Risk free MF = (6.57+14.41) %
+Equity = 79.02%
+
+UTI Flexi Cap Fund - Direct Plan - Growth
+Risk free MF = (0.16+4.15)%
+Equity = 95.69%
